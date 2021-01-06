@@ -1,4 +1,7 @@
 My first Git repo
 some
 lines
-added
+
+asd
+asd2
+asd3
